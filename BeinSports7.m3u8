@@ -1,1 +1,4 @@
-
+#EXTM3U 
+#EXT-X-VERSION:3 
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000
+http://55.banrhfour.xyz.global.prod.fastly.net:80/live/791001144/index.m3u8
